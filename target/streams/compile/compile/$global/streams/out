@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\U1162369\IdeaProjects\File_Searcher\src\main\scala\FilterChecker.scala:7:22: not found: value iOObjects[0m
+[0m[[0m[31merror[0m] [0m[0m    for (iOObject <- iOObjects[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
