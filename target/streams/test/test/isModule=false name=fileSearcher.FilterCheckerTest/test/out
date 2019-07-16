@@ -3,3 +3,9 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m- should return a list with that file[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mFilterChecker passed a list with a directory that matches the filer[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should not return the directory[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFilterChecker passed a file with content that matches the filter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return that the match succeeded *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  <(), the Unit value> did not equal true (FilterCheckerTest.scala:28)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFilterChecker passed a file with content that does not match the filter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- should return that the match failed *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  <(), the Unit value> did not equal false (FilterCheckerTest.scala:35)[0m[0m
