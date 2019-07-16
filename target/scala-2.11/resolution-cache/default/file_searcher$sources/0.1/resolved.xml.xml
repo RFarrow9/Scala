@@ -4,7 +4,7 @@
 		module="file_searcher$sources"
 		revision="0.1"
 		status="integration"
-		publication="20190715150609"
+		publication="20190716091218"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

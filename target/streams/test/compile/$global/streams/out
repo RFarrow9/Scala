@@ -1,6 +1,3 @@
-[0m[[0m[31merror[0m] [0m[0mC:\Users\U1162369\IdeaProjects\File_Searcher\src\test\scala\FilterCheckerTest.scala:18:68: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : List[fileSearcher.IOObject][0m
-[0m[[0m[31merror[0m] [0m[0m required: List[fileSearcher.FileObject][0m
-[0m[[0m[31merror[0m] [0m[0m    val matchedFiles = new FilterChecker("match").findMatchedFiles(listOfIOObjects)[0m
-[0m[[0m[31merror[0m] [0m[0m                                                                   ^[0m
-[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\U1162369\IdeaProjects\File_Searcher\src\test\scala\fileSearcher\MatcherTest.scala:11:3: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m

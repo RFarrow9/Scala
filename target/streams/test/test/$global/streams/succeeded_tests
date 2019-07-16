@@ -1,3 +1,4 @@
 #Successful Tests
-#Mon Jul 15 16:56:04 BST 2019
-fileSearcher.FilterCheckerTest=1563206164746
+#Tue Jul 16 10:42:34 BST 2019
+fileSearcher.MatcherTest=1563270154522
+fileSearcher.FilterCheckerTest=1563270154578
