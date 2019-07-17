@@ -1,0 +1,16 @@
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation to C:\Users\U1162369\IdeaProjects\File_Searcher\target\scala-2.11\api...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.11:1.2.5:compile for Scala 2.11.0[0m
+[0m[[0m[0mdebug[0m] [0m[0mCalling Scaladoc with arguments:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\U1162369\IdeaProjects\File_Searcher\target\scala-2.11\api[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Java\jdk1.8.0_211\jre\classes;C:\Users\U1162369\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.0.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	dummy_da6494b1[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\U1162369\IdeaProjects\File_Searcher\src\main\scala\fileSearcher\FileConverter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\U1162369\IdeaProjects\File_Searcher\src\main\scala\fileSearcher\FilterChecker.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\U1162369\IdeaProjects\File_Searcher\src\main\scala\fileSearcher\IOObject.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\U1162369\IdeaProjects\File_Searcher\src\main\scala\fileSearcher\Matcher.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\U1162369\IdeaProjects\File_Searcher\src\main\scala\fileSearcher\Runner.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	C:\Users\U1162369\IdeaProjects\File_Searcher\src\main\scala\fileSearcher\SearchResultWriter.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mMain Scala API documentation successful.[0m

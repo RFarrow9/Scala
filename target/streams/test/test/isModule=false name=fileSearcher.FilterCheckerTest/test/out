@@ -4,8 +4,6 @@
 [0m[[0m[0minfo[0m] [0m[0m[32mFilterChecker passed a list with a directory that matches the filer[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- should not return the directory[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mFilterChecker passed a file with content that matches the filter 1 times[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- should return a 1 *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  true did not equal 1 (FilterCheckerTest.scala:28)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a 1[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mFilterChecker passed a file with content that does not match the filter[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- should return a 0 *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  false did not equal 0 (FilterCheckerTest.scala:35)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a 0[0m[0m

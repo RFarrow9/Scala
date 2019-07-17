@@ -1,7 +1,6 @@
 package fileSearcher
 
 import java.io.File
-
 import scala.annotation.tailrec
 
 class Matcher (filter:String, val rootLocation: String = new File(".").getCanonicalPath(),
@@ -33,11 +32,14 @@ class Matcher (filter:String, val rootLocation: String = new File(".").getCanoni
     }
 
     val contentFilteredFiles = contentFilter match {
-      case Some(dataFilter) => matchedFiles filter(iOObject => FilterChecker(dataFilter).findMatchedContentCount(iOObject.file) > 0)
-      case None => matchedFiles
+      case Some(dataFilter) =>
+        matchedFiles.map(iOObject =>
+          (iOObject, Some(FilterChecker(dataFilter).findMatchedContentCount(iOObject.file))))
+            .filter(_._2.get > 0)
+      case None => matchedFiles map(iOObject=>(iOObject, None))
     }
 
-    contentFilteredFiles map(iOObject => iOObject.name)
+    contentFilteredFiles map{case(iOObject, count) => (iOObject.fullName, count)}
   }
 
 }
